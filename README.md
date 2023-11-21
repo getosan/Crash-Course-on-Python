@@ -1,2 +1,2 @@
 # Crash-Course-on-Python
-this course is from Coursera Learning Platform
+Learning the basic of Python language
