@@ -1,0 +1,7 @@
+1. Functions in python: are a piece of code that perform a unit of work
+2. Keywords in python: are reserved words that are used to construct instructions
+3. Print function in python: the print function outputs messages to the screen
+4. Output massage: print("Programming in Python is fun!")
+5. calculate the golden ratio using python:
+    ratio = ((1+5**(1/2))/2)
+    print(ratio)
