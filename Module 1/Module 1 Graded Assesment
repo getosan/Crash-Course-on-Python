@@ -1,0 +1,24 @@
+1. Why is it important to be very precise about what a computer program is supposed to do?
+  - computer do exactly what they are told
+2. What is a shorter piece code, typically used to automate a specific task?
+    - script
+3. what is automation?
+    - the process of replacing a manual step with an automated step
+4. what is the term for the set of rules for how statements are constructed in a programming language?
+    - syntax
+5. which of the following are characteristics of the python language? select all that apply
+    - python is cross-platform compatible
+    - python is used in a wide variety of applications
+6. complete the code so that the string "I am writing Python code!"
+      print("I am writing Python code!"
+7. calculate this: print(6*2-5/(1+4)+3**2)
+      - 20.0
+8. Assuming there are 60 minutes in an hour, write a program that calculates the number of minutes in a 24 hour day.
+    - hour = 60
+      print(hour*24)
+9. use python to calculate how many different passwords can be formed with 6 lower case English letters
+    For a 1 letter password, there would be a 26 possibilites. For a 2 letter password, each letter is independent of the other,
+    so there would be 26 times 26 possibilities. Using this information, print the amount
+        value = (26**6)
+        print(value)
+        should print 308915776
