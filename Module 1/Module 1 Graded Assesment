@@ -22,3 +22,12 @@
         value = (26**6)
         print(value)
         should print 308915776
+10. in a managed computong environment, there are 200 remote computers that must download 200 MB of updates each months.
+    there are 1024 KB in each MB. 
+    answers:
+      downloaded_size_kb = 200*1024
+      total_computers = 200
+      total_kbs = download_size_kb*total_computers
+
+      print(total_kbs) 
+      it should print 40960000
